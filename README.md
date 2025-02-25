@@ -2,6 +2,8 @@
 
 **Description:** With the provided assets remake the advice generator in React.
 
+![Design preview for Advice Generator](/src/assets/AdviceScreen.png)
+
 ***Here are the requirements that are needed:***
 - Must have a component folder
 - Desktop and Mobile responsive
@@ -15,9 +17,9 @@
 
 ## Link(s):
 
-[Github-Repo]()
+[Github-Repo](https://github.com/mkheck13/AdviceGenReact)
 
-[Vercel]()
+[Vercel](https://advice-gen-react-five.vercel.app/)
 
 ## FeedBack/Peer Review: 
 
