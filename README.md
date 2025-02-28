@@ -23,6 +23,6 @@
 
 ## FeedBack/Peer Review: 
 
-**Reviewer:** (Name here)
+**Reviewer:** Bronel Lazar
 
-**Comments:** (Comment here)
+**Comments:** Everything looks pretty much accurate to the original design and functions as it should. The only problem I notice is that the dice icon on the button isn't showing on the desktop version, it actually comes into view on the button when you zoom in on the screen. Other than that it's good and the dice is perfectly visible on mobile
