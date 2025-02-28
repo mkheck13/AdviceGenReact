@@ -26,3 +26,5 @@
 **Reviewer:** Bronel Lazar
 
 **Comments:** Everything looks pretty much accurate to the original design and functions as it should. The only problem I notice is that the dice icon on the button isn't showing on the desktop version, it actually comes into view on the button when you zoom in on the screen. Other than that it's good and the dice is perfectly visible on mobile
+
+**Update:** After trying numerous things I was unable to figure out way the dice shrinks on certain screen sizes.
